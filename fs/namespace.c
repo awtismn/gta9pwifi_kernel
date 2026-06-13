@@ -4140,5 +4140,4 @@ const struct proc_ns_operations mntns_operations = {
 	.put		= mntns_put,
 	.install	= mntns_install,
 	.owner		= mntns_owner,
-}
-}
+};
